@@ -9,10 +9,21 @@ You type:
 
 Agent instantly returns a perfect, executable 7-step plan → ready for full autonomy in later weeks.
 
-### How to run it right now
-1. Open in ChatGPT
-2. Copy and paste the prompt from `TASK_PLANNER_PROMPT.txt`  
-3. Replace the goal and hit enter
+### How to run the Week 1 Task Planner right now (choose your style)
+
+**Option 1 — Zero code (30 seconds)**  
+1. Open Chatgpt
+2. Copy and paste the prompt from TASK_PLANNER_PROMPT.txt 
+3. Type your goal (e.g. “Plan a weekend trip from Lagos to Abeokuta under ₦50,000”)  
+4. Hit Enter → get a perfect step-by-step plan instantly
+
+**Option 2 — Python / Colab (one-click, runs in browser)**  
+→ [Run in Google Colab (no install, works without API key)](https://colab.research.google.com/github/DeaY01/ai-agents-week1-task-planner/blob/main/colab-task-planner.ipynb)  
+   • Edit one line with your goal  
+   • Press Shift + Enter → done  
+   • Add your OpenAI key (optional) for 10× smarter output
+
+Both versions give you the exact same powerful Task Planner Agent — pick whichever you vibe with.
 
 ### Live Examples (real outputs)
 - Cheap weekend in Lagos  
